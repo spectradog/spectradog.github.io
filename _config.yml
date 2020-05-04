@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Jen A."
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/Logo.png"
   bio    : "Lover of maps, design, and learning."
   links:
     - label: "Website"
