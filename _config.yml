@@ -62,10 +62,10 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.fourbeautifulsunsets.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-facebook-square"
       url: "https://www.facebook.com/4BeautifulSunsets"
     - label: "Pinterest"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-pinterest-square"
       url: "https://www.pinterest.com/jschwan29/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -73,15 +73,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fourbeautifulsunsets.com/"
+    - label: "Facebook"
+      icon: "fa fa-facebook-square"
+      url: "https://www.facebook.com/4BeautifulSunsets"
+    - label: "Pinterest"
+      icon: "fa fa-pinterest-square"
+      url: "https://www.pinterest.com/jschwan29/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fourbeautifulsunsets/?hl=en"
 
 defaults:
   # _posts
