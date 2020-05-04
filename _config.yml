@@ -16,9 +16,7 @@
 title: Four Beautiful Sunsetts
 email: fourbeautifulsunsets@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Gameification that's actually fun for education and training.
-twitter_username: username
-github_username: username
+  Gameification for education and training that's actually fun.
 minimal_mistakes_skin: dark
 search: true
 
@@ -56,22 +54,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Jen A."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Lover of maps, design, and learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://www.fourbeautifulsunsets.com/"
+    - label: "Facebook"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://www.facebook.com/4BeautifulSunsets"
+    - label: "Pinterest"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://www.pinterest.com/jschwan29/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fourbeautifulsunsets/?hl=en"
 
 footer:
   links:
